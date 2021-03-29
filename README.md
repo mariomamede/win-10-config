@@ -1,7 +1,7 @@
 # win-10-config
 
-<h4>run.bat</h4>
-- Disable UAC
+<h2>run.bat</h2>
+<p>- Disable UAC</p>
 - Disable Hide extensions for known file types
 - Replace PowerShell with Command Prompt in Windows + X
 - File Explorer open "This PC" by default
