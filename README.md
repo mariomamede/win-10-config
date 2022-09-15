@@ -3,6 +3,7 @@
 <h2>run.bat</h2>
 <p>- Disable UAC</p>
 <p>- Disable Hide extensions for known file types</p>
+<p>- Disable "Let's finish setting up your device"</p>
 <p>- Replace PowerShell with Command Prompt in Windows + X</p>
 <p>- File Explorer open "This PC" by default</p>
 <p>- Disable "Quick Access" from explorer folders</p>
